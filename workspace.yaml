@@ -1,0 +1,6 @@
+---
+version: "v1"
+image: "cloudstudio.tencentcloudcr.com/saas.container/jupyter-3.11:2023-09-05.0654"
+extensions:
+- "https://cs-res-1258344699.file.myqcloud.com/vscode_plugins/GitHub.vscode-pull-request-github.0.48.0.vsix"
+lifecycle: {}
