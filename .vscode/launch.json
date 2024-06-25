@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/workspace/4tencengCodeStudio/testing",
-      "program": "/workspace/4tencengCodeStudio/testing/build/Debug/outDebug",
+      "program": "/workspace/4tencengCodeStudio/testing/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
